@@ -1,0 +1,3 @@
+state/entries.json
+*.csv
+.env
